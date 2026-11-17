@@ -1,0 +1,6 @@
+{
+  "name": "BedrockHub",
+  "description": "Catálogo de addons para Minecraft Bedrock con colecciones del Marketplace, paquetes gratuitos e instalación directa .mcaddon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

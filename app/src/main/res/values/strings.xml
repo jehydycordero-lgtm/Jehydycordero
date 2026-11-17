@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BedrockHub</string>
+    <string name="nav_explore">Explorar</string>
+    <string name="nav_marketplace">Marketplace</string>
+    <string name="nav_vault">Mi Bóveda</string>
+    <string name="search_placeholder">Buscar addons, shaders, muebles...</string>
+    <string name="badge_free_in_app">GRATIS EN APP</string>
+    <string name="badge_free_marketplace">GRATIS MARKETPLACE</string>
+    <string name="badge_marketplace">MARKETPLACE</string>
+    <string name="cta_install_mcaddon">Descargar .mcaddon</string>
+    <string name="cta_open_minecraft">Abrir en Minecraft</string>
+    <string name="cta_open_marketplace">Abrir en Marketplace</string>
+    <string name="cta_share_pack">Compartir paquete</string>
+    <string name="cta_inspect_manifest">Ver manifest.json</string>
+    <string name="section_featured">Destacados de Bedrock</string>
+    <string name="section_catalog">Catálogo Completo</string>
+    <string name="empty_downloads_title">Tu bóveda está vacía</string>
+    <string name="empty_downloads_desc">Descarga cualquier addon gratuito para generar su archivo .mcaddon listo para importar en Minecraft Bedrock.</string>
+    <string name="empty_favorites_title">Sin favoritos guardados</string>
+    <string name="empty_favorites_desc">Toca el corazón en cualquier addon del Marketplace o gratuito para tenerlo siempre a mano.</string>
+    <string name="empty_search_title">Sin resultados</string>
+    <string name="empty_search_desc">Prueba con otro término o cambia el filtro de categoría.</string>
+    <string name="back_content_desc">Volver</string>
+    <string name="favorite_content_desc">Alternar favorito</string>
+    <string name="clear_search_desc">Limpiar búsqueda</string>
+</resources>
